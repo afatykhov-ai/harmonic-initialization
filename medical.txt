@@ -1,0 +1,45 @@
+The human brain contains approximately 86 billion neurons and is responsible for cognition, memory, and emotion. Neuroimaging techniques such as fMRI and PET scans allow clinicians to visualize brain activity in real time.
+Alzheimer’s disease is characterized by the accumulation of amyloid-beta plaques and neurofibrillary tangles in the brain.
+Machine learning algorithms can detect tumors in MRI scans with over 95% accuracy, reducing diagnostic time by up to 70%.
+Cardiovascular disease is the leading cause of death globally.
+AI models analyze ECG signals to predict arrhythmias before symptoms appear.
+Insulin resistance is a key mechanism in type 2 diabetes.
+Continuous glucose monitors use machine learning to predict hypoglycemic events.
+Radiologists now use deep learning models to classify lung nodules in CT scans, improving early detection of cancer.
+The blood-brain barrier protects the brain from toxins but also limits drug delivery.
+Nanoparticles are being developed to cross this barrier for targeted therapy.
+Genomic sequencing enables personalized medicine by identifying mutations that respond to specific drugs, such as BRCA1 in breast cancer.
+Neurodegenerative diseases like Parkinson’s and ALS involve the progressive loss of motor neurons.
+Deep learning models can predict progression from speech patterns.
+Clinical trials use AI to match patients with appropriate therapies based on genetic profiles and medical history.
+Brain-computer interfaces allow paralyzed patients to control robotic limbs using neural signals.
+MRI scans use strong magnetic fields and radio waves to produce detailed images of soft tissues.
+CT scans combine multiple X-ray images to create cross-sectional views of the body.
+Ultrasound imaging uses high-frequency sound waves to visualize internal organs in real time.
+Lumbar puncture is used to collect cerebrospinal fluid for diagnosing meningitis or multiple sclerosis.
+Electroencephalography (EEG) measures electrical activity in the brain and is used to diagnose epilepsy.
+Biopsies involve removing tissue samples for microscopic examination to confirm cancer diagnosis.
+Radiation therapy uses high-energy beams to destroy cancer cells while sparing healthy tissue.
+Immunotherapy boosts the body’s immune system to fight cancer and other diseases.
+Hypertension is often called the “silent killer” because it typically has no symptoms until organ damage occurs.
+Type 1 diabetes is an autoimmune disorder where the pancreas stops producing insulin.
+Strokes occur when blood flow to part of the brain is interrupted, leading to cell death.
+Pneumonia can be caused by bacteria, viruses, or fungi and is treated with antibiotics or antivirals.
+The microbiome refers to the trillions of microorganisms living in and on the human body, influencing immunity and mood.
+Hormonal imbalances can lead to conditions such as thyroid disorders, polycystic ovary syndrome, and adrenal fatigue.
+MRI contrast agents enhance visibility of blood vessels, tumors, and inflammation in scans.
+Anesthesia prevents pain during surgery by blocking nerve signals to the brain.
+Epilepsy is characterized by recurrent seizures caused by abnormal electrical activity in the brain.
+Parkinson’s disease involves the degeneration of dopamine-producing neurons in the substantia nigra.
+The hippocampus is a brain region critical for forming new memories and spatial navigation.
+Migraines are severe headaches often accompanied by nausea, light sensitivity, and visual auras.
+Liver cirrhosis results from long-term damage due to alcohol abuse or viral hepatitis.
+Kidney stones form when minerals in urine crystallize and can cause excruciating pain.
+Chronic obstructive pulmonary disease (COPD) includes emphysema and chronic bronchitis.
+Atherosclerosis is the buildup of fatty plaques in arteries, leading to heart attacks and strokes.
+Obesity increases risk for diabetes, hypertension, and certain cancers through chronic inflammation.
+Autoimmune diseases like lupus and rheumatoid arthritis occur when the immune system attacks healthy tissue.
+Vaccines train the immune system to recognize and fight pathogens without causing disease.
+Antibiotics are ineffective against viral infections like the flu or common cold.
+Mental health disorders such as depression and anxiety are treatable with therapy and medication.
+Neuroplasticity allows the brain to rewire itself after injury or during learning.
